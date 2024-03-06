@@ -1,4 +1,4 @@
-# EDA-Team-Spending-Regular-Season-Wins-NBA
+# EDA: Team Spending & Regular Season Wins in the NBA
 Exploratory Data Analysis Around Team Spending &amp; Regular Season Wins in the NBA
 
 Originally created for an Exploratory Data Analysis graduate course in November of 2023.
